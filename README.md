@@ -21,11 +21,25 @@
 
 ---
 
-### 📊 GitHub Stats <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
-![Mohit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit2812&show_icons=true&theme=tokyonight)
+## 📊 My Coding Stats <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="40">
 
-### 📌 Most Used Languages
+<div align="center">
+
+| GitHub Stats | LeetCode Stats |
+| ------------ | --------------- |
+| ![Mohit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit2812&show_icons=true&theme=tokyonight) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Mohit2812?theme=dark&font=Karma) |
+
+</div>
+
+
+
+  ### Most Used Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit2812&layout=compact&theme=tokyonight)
+
+</div>
 
 
 ---
