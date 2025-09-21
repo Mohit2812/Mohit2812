@@ -13,7 +13,7 @@
 
 
 ### 👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-- 🎓 B.Tech student (CSE - AI & DS)                                    
+- 🎓 B.Tech student (CSE - AI & ML)                                    
 - 💻 Familiar with **Python, C++, SQL**  
 - 🌱 Learning **C++(DSA)**  
 - 🔍 Exploring **Machine Learning & AI tools**  
