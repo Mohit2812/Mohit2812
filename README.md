@@ -31,17 +31,6 @@
 
 </div>
 
-
-
-  ### Most Used Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit2812&layout=compact&theme=tokyonight)
-
-</div>
-
-
 ---
 
 ### ⚡ Languages and Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
